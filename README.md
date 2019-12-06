@@ -1,2 +1,2 @@
-# Dhan_git
+# GitHub Tutorial
 Sample repository
