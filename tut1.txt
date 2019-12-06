@@ -1,0 +1,17 @@
+Configure your Git username and email address, since every Git commit will use this information to identify you as the author
+To set username:
+git config --global user.name "YOUR_USERNAME"
+To verify:
+git config --global user.name
+
+To set email address:
+git config --global user.email "your_email_address@example.com"
+To verify:
+git config --global user.email
+
+To view the information that you entered, along with other global options, type:
+git config --global --list
+
+Initialize a local directory for Git version control
+
+git init
